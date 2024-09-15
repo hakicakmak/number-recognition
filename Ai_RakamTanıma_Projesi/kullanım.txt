@@ -1,0 +1,13 @@
+
+
+Projeyi çalıştıdıktan sonra çıkan arayüzde resim seçme işlemleri yapılır.
+
+"Rakamlar" klösrü altından istediğin rakamı seçebilirsiniz.
+
+Daha sonra rakam tanıma işlemi gerçekleştirebilirsiniz.
+
+
+
+
+Gereklü kütüphane yüklemelerini terminale 
+"pip install -r requirements.txt" kodunu yazarak yükleyebilirsiniz. 
